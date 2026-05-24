@@ -53,8 +53,11 @@
 ## Задание 2: проектирование API
 ### 1. Пример REST API запроса
 **GET** /api/v1/partners/shops?address_id=address_example
+
 Host: api.petrushka_zelenaya.com
+
 Authorization: Bearer token_example
+
 Accept: application/json
 
 ### 2. Пример ответа REST API
