@@ -131,3 +131,7 @@ Accept: application/json
 ## Задание 3: архитектура
 
 ### ![Схема пушей](Push_diagram.png)
+
+
+### AAAuthor
+##### [@Legalize-NuclearBombs](https://github.com/Legalize-NuclearBombs)
