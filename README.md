@@ -61,6 +61,7 @@ Authorization: Bearer token_example
 Accept: application/json
 
 ### 2. Пример ответа REST API
+```
 {
   "status": "success",
   "data": {
@@ -125,6 +126,7 @@ Accept: application/json
     ]
   }
 }
+```
 
 ## Задание 3: архитектура
 
